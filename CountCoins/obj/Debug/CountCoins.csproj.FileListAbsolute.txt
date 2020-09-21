@@ -1,0 +1,15 @@
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\CountCoins.exe.config
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.Form1.resources
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\CountCoins.exe
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\CountCoins.pdb
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.exe
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\obj\Debug\CountCoins.pdb
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.dll
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.Imaging.dll
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.Math.dll
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.xml
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.Imaging.xml
+d:\documents\visual studio 2015\Projects\CountCoins\CountCoins\bin\Debug\AForge.Math.xml
